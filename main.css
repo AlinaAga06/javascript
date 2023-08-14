@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap");
+
 
 body {
   font-family: sans-serif;
@@ -18,11 +18,7 @@ header {
   border-bottom: 2px solid #ccc;
 }
 
-header img {
-  width: 2rem;
-  object-fit: contain;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.7);
-}
+
 
 header h1 {
   color: #fce563;
